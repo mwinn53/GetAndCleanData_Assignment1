@@ -2,7 +2,7 @@
 
 ##  ROWS:    subject.id
     
-    **The ID number of the volunteer conducting the experiment.**
+    The ID number of the volunteer conducting the experiment.
     
     1-30
   
