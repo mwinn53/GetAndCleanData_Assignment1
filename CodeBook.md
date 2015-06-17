@@ -18,4 +18,5 @@
     LAYING
   
 ## TABLE FIELD
-    The values in the table field are the mean values of the 66 extracted variables (mean and std) for the experiment. 
+    The values in the table field are the mean values of the 66 
+    extracted variables (mean and std) for the experiment. 
