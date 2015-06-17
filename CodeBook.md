@@ -1,12 +1,12 @@
 # The final tidy data set contains the following variables
 
-##  ROWS:    **subject.id**
+##  ROWS:    subject.id
     
     The ID number of the volunteer conducting the experiment.
     
     1-30
   
-##  COLUMNS:  **activity.name **
+##  COLUMNS:  activity.name
     
     The name of the activity under which the measurements were taken 
     
