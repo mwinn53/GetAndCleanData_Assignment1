@@ -2,7 +2,7 @@
 
 ##  ROWS:    subject.id
     
-    The ID number of the volunteer conducting the experiment.
+    **The ID number of the volunteer conducting the experiment.**
     
     1-30
   
@@ -17,7 +17,5 @@
     STANDING
     LAYING
   
- ## Table field
-
-The values in the table field are the mean values of the 66 extracted 
-    variables (mean and std) for the experiment. 
+## TABLE FIELD
+    The values in the table field are the mean values of the 66 extracted variables (mean and std) for the experiment. 
