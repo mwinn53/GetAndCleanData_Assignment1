@@ -19,8 +19,5 @@ In addition to this README, this repository contains the following files:
         ./run_analyis.R
         ./UCI HAR Dataset/test/
         ./UCI HAR Dataset/train/
-        
-*   **tidydata.txt**
 
-    The output of the run_analysis.R script on the UCI HAR Dataset
-    
+    As specified in the assignment, the UCI HAR Dataset was retreived from   (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
